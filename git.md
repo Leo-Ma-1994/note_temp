@@ -40,5 +40,21 @@ git branch -r
 
 
 
+Gits删除本地分支和同步远程已经删除的分支
+
+删除本地分支
+
+git branch -d [branch_name]
+
+同步远程分支
+
+git remote prune [origin]
+
+
+
+Git amend相关
+
+
+
 
 
